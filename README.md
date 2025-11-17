@@ -1,4 +1,4 @@
 # project-demo
 This is my first Repo.
 <br>
-Author - Vani Shokte
+Author - Vani Shokte prajapati
